@@ -16,9 +16,7 @@
 ![DevTools](https://img.shields.io/badge/-DevTools-190004?style=for-the-badge&logo=googlechrome&logoColor=2674f2)
 ![Github](https://img.shields.io/badge/-Github-190004?style=for-the-badge&logo=github&logoColor=8cc4d7)
 ![Postman](https://img.shields.io/badge/-Postman-190004?style=for-the-badge&logo=postman&logoColor=f76935)
-![bash][linkBash]
 ![Markdown](https://img.shields.io/badge/-Markdown-190004?style=for-the-badge&logo=Markdown&logoColor=136bel)
-![Linux](https://img.shields.io/badge/-linux-190004?style=for-the-badge&logo=linux&logoColor=136bel)
 
 ### Testing Documentation and Tools
 
