@@ -1,4 +1,4 @@
-# [![Header](https://github.com/Andrew-Valiev/Andrew-Valiev/blob/main/assets/Quality-assurance.jpg)](https://github.com/Andrew-Valiev/Andrew-Valiev/blob/main/assets/Quality-assurance.jpg)
+# [![Header](https://github.com/InnaZV-5254/InnaZV-5254/blob/main/Assets/GitHubDesktop-x64.jpg)](https://github.com/InnaZV-5254/InnaZV-5254/blob/main/Assets/GitHubDesktop-x64.jpg)
 
 ## I am a QA engineer
 
