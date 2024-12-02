@@ -1,1 +1,2 @@
-#Testing Documents
+# Testing Documents
+**Exploratory Testing**
