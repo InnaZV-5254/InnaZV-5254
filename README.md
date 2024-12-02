@@ -22,7 +22,7 @@
 
 - [Exploratory Testing](https://github.com/Andrew-Valiev/andrew-valiev/tree/main/exploratory_testing)
 - [Checklists](https://github.com/Andrew-Valiev/andrew-valiev/tree/main/checklists)
-- [Test-Cases](https://github.com/Andrew-Valiev/andrew-valiev/tree/main/test_cases)
+- [Test-Cases](https://github.com/InnaZV-5254/InnaZV-5254/tree/main/test-cases)
 - [Test-design](https://github.com/Andrew-Valiev/andrew-valiev/tree/main/test_design)
 - [Bug-Reports](https://github.com/Andrew-Valiev/andrew-valiev/tree/main/bug_reports)
 - [SQL Queries](https://github.com/Andrew-Valiev/andrew-valiev/tree/main/sql_queries)
