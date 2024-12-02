@@ -1,10 +1,10 @@
 # [![Header](https://github.com/InnaZV-5254/InnaZV-5254/blob/main/Assets/GitHubDesktop-x64.jpg)](https://github.com/InnaZV-5254/InnaZV-5254/blob/main/Assets/GitHubDesktop-x64.jpg)
 
-## I am a QA engineer
+## I am a QA Engineer
 
-## My resume
+## My Resume
 
-[Link to my resume](https://docs.google.com/document/d/1uJohdbcMe0anm29qFEvTkPwl1q5KuKMEubwyWAibx9A/edit?usp=sharing)
+[My LinkedIN Link](https://www.linkedin.com/in/inna-vestal-b0804712/)
 
 ### Language and Tools
 
